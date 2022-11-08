@@ -1,6 +1,6 @@
-- 👋  @eat_meata
-- 🌈🌈🌈
-- 📫 1035493075@qq.com
+## 👋  @eat_meata
+## 🌈🌈🌈
+## 📫 1035493075@qq.com
 
 <!---
 sihaixiang/sihaixiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
